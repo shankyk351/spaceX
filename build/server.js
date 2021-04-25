@@ -23,7 +23,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "bd50fbf7a2535dfe2204";
+/******/ 	var hotCurrentHash = "ac1105575f8f16348039";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1046,7 +1046,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./App.css */ "./src/App.css");
 /* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_App_css__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/App.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/App.js";
 
 
 
@@ -1099,7 +1099,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return FilterGroup; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/FilterGroup.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/FilterGroup.js";
 
 function FilterGroup(props) {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -1181,7 +1181,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Footer_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Footer.css */ "./src/components/Footer.css");
 /* harmony import */ var _Footer_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Footer_css__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/Footer.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/Footer.js";
 
 
 
@@ -1238,7 +1238,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header.css */ "./src/components/Header.css");
 /* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Header_css__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/Header.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/Header.js";
 
 
 
@@ -1285,12 +1285,12 @@ module.exports = {};
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Home; });
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "@babel/runtime/helpers/slicedToArray");
-/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "@babel/runtime/helpers/slicedToArray");
+/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
@@ -1304,8 +1304,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _launchesList__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./launchesList */ "./src/components/launchesList.js");
 
 
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/Home.js";
 
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/Home.js";
 
 
 
@@ -1316,12 +1316,12 @@ var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/component
 
 function Home() {
   var _useState = Object(react__WEBPACK_IMPORTED_MODULE_3__["useState"])([]),
-      _useState2 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_2___default()(_useState, 2),
+      _useState2 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_1___default()(_useState, 2),
       launches = _useState2[0],
       setLaunches = _useState2[1];
 
   var _useState3 = Object(react__WEBPACK_IMPORTED_MODULE_3__["useState"])(true),
-      _useState4 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_2___default()(_useState3, 2),
+      _useState4 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_1___default()(_useState3, 2),
       loading = _useState4[0],
       setLoading = _useState4[1];
 
@@ -1329,9 +1329,9 @@ function Home() {
   var history = Object(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["useHistory"])();
   Object(react__WEBPACK_IMPORTED_MODULE_3__["useEffect"])(function () {
     var fetchLaunches = /*#__PURE__*/function () {
-      var _ref = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(function _callee() {
+      var _ref = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee() {
         var res;
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.wrap(function _callee$(_context) {
+        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee$(_context) {
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
@@ -1468,7 +1468,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Sidebar_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_Sidebar_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _FilterGroup__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./FilterGroup */ "./src/components/FilterGroup.js");
 
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/Sidebar.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/Sidebar.js";
 
 
 
@@ -1570,7 +1570,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _launchCard_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_launchCard_css__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _assets_rocket_avatar_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/rocket-avatar.png */ "./src/assets/rocket-avatar.png");
 /* harmony import */ var _assets_rocket_avatar_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_assets_rocket_avatar_png__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/launchCard.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/launchCard.js";
 
 
 
@@ -1714,7 +1714,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _launchCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./launchCard */ "./src/components/launchCard.js");
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/components/launchesList.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/components/launchesList.js";
 
 
 function LaunchesList(props) {
@@ -1815,7 +1815,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_dom_server__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_dom_server__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var cors__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! cors */ "cors");
 /* harmony import */ var cors__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(cors__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/admin/Desktop/spaceX/sapient-spacex-app/src/server.js";
+var _jsxFileName = "/Users/admin/Desktop/spaceX/spaceX-new/src/server.js";
 
 
 
@@ -1827,7 +1827,7 @@ var assets = __webpack_require__(/*! ./build/assets.json */ "./build/assets.json
 
 var server = express__WEBPACK_IMPORTED_MODULE_3___default()();
 server.use(cors__WEBPACK_IMPORTED_MODULE_5__());
-server.disable('x-powered-by').use(express__WEBPACK_IMPORTED_MODULE_3___default.a["static"]("/Users/admin/Desktop/spaceX/sapient-spacex-app/public")).get('/*', function (req, res) {
+server.disable('x-powered-by').use(express__WEBPACK_IMPORTED_MODULE_3___default.a["static"]("/Users/admin/Desktop/spaceX/spaceX-new/public")).get('/*', function (req, res) {
   var context = {};
   var markup = Object(react_dom_server__WEBPACK_IMPORTED_MODULE_4__["renderToString"])( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["StaticRouter"], {
     context: context,
@@ -1940,7 +1940,7 @@ function createSearchString(yearFilter, launchSuccessFilter, landSuccessFilter) 
 
 __webpack_require__(/*! razzle-dev-utils/prettyNodeErrors */"razzle-dev-utils/prettyNodeErrors");
 __webpack_require__(/*! webpack/hot/poll?300 */"./node_modules/webpack/hot/poll.js?300");
-module.exports = __webpack_require__(/*! /Users/admin/Desktop/spaceX/sapient-spacex-app/src */"./src/index.js");
+module.exports = __webpack_require__(/*! /Users/admin/Desktop/spaceX/spaceX-new/src */"./src/index.js");
 
 
 /***/ }),
